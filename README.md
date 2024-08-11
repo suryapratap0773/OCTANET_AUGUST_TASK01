@@ -31,6 +31,11 @@ Project Structure
 index.html: Main file containing the structure of the landing page.
 style.css: Contains all the styling for the landing page.
 background.png: The PNG background image used in the project.
+.
+.
+Link To Website -  https://suryapratap0773.github.io/OCTANET_AUGUST_TASK01/
+.
+.
 <img width="1280" alt="PAGE-01" src="https://github.com/user-attachments/assets/1a462d5a-a702-4a51-91de-42f0e6d8ba29">
 <img width="1280" alt="PAGE-02" src="https://github.com/user-attachments/assets/d59199a0-72b1-4afa-bbc1-be1702eb13af">
 <img width="1280" alt="PAGE-03" src="https://github.com/user-attachments/assets/5c50f9ae-9a67-403c-8dfe-8570c71154a0">
